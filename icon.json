@@ -4,5 +4,9 @@
 	"icons": [{
 		"name": "tuchong",
 		"url": "https://raw.githubusercontent.com/xp9477/QuanX/main/icon/tuchong.png"
+	},
+	{
+		"name": "darunfa",
+		"url": "https://raw.githubusercontent.com/xp9477/QuanX/main/icon/darunfa.png"
 	}]
 }
